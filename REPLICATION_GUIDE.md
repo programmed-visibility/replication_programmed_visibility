@@ -128,11 +128,11 @@ Your results should approximately match:
 
 | Search | Posts | Posts/Month (avg) |
 |--------|-------|-------------------|
-| 2 (BEPS 1.0) | ~155 | ~3.5 |
+| 2 (BEPS 1.0) | ~155 | ~3.2 |
 | 3 (TCJA) | ~1,584 | ~16 overall, ~266 peak |
-| 4 (Tariffs T1) | ~4,777 | ~136 |
-| 5 (BEPS 2.0) | ~266 | ~3.3 |
-| 6 (Tariffs T2) | ~12,641 | ~2.7 Biden, ~1,221 Trump 2.0 |
+| 4 (Tariffs T1) | ~4,777 | ~133 |
+| 5 (BEPS 2.0) | ~266 | ~3.2 |
+| 6 (Tariffs T2) | ~12,641 | ~8.9 Biden avg, ~1,221 Trump 2.0 |
 
 Minor variations (±10%) are expected due to MCL data changes over time.
 
