@@ -9,8 +9,8 @@ This repository contains the analytical code for examining visibility patterns o
 | Configuration | Reform | Pattern |
 |---------------|--------|---------|
 | Strategic Opacity | BEPS 1.0 & 2.0 | ~3 posts/month regardless of political moments |
-| Temporary Forced Visibility | TCJA | 266 posts/month spike → 99% decline |
-| Mobilization-Dependent | Tariffs | 452× differential (Biden vs Trump 2.0) |
+| Temporary Forced Visibility | TCJA | 266.5 posts/month spike → 99% decline |
+| Mobilisation-Dependent | Tariffs | 137×–452× differential (Biden vs Trump 2.0) |
 
 ## Repository Structure
 
